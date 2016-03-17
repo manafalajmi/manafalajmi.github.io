@@ -1,0 +1,137 @@
+body{
+	background-image: url("http://www.iwebdesigner.it/wp-content/uploads/2012/04/textures-patterns-gradients-18.jpg");
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+
+	
+}
+
+.button{
+	
+	
+	float:right;
+}
+.marg{
+	
+	padding:20px;
+	margin-left: 20px;
+	margin-right: 20px;
+	width:auto;
+	
+	
+}
+
+.paneling{
+	background-color : #2a2b2c	;
+	color: #efefef;
+	
+	
+}
+
+.content1{
+	
+	background-color: #0f0f0f;
+	width: 1200px;
+	height:auto;
+	margin:auto;
+	margin-top: 80px;
+	
+}
+
+.port{
+	
+	margin: 30px;
+		
+}
+
+
+.pic{
+	
+	width:60px;
+	height:60px;
+
+}
+.butto{
+	height:60px;
+	
+	
+}
+.pic2{
+	
+	margin-left: 20px;
+	
+}
+
+.temp{
+	margin-top:100px;
+	
+	
+}
+
+
+p  {
+	font-size :20;
+    
+}
+li {
+	font-size : 14;
+}
+
+
+.para li{
+
+	margin-bottom: 25px;
+	margin-top: 30px; 
+	line-height: 20px;
+	
+	}
+.marg{
+	
+	
+	
+}
+.image{
+		height: auto;
+		width: auto;
+		margin:auto;
+}
+
+	
+	.title{
+		background-color: #E0E0E0;
+		color:black;
+		
+		}
+
+.space
+	{
+		margin-top:40px;
+		margin-bottom:40px;
+		}
+.portfolio{
+	margin-left: 80px;
+	margin-right:80px;
+	margin-top:50px;
+	}
+.portfolio{
+	padding-top: 50px;
+	}
+
+
+.navigation{
+	color:#444751;
+		padding-left:60px;
+		text-align: middle;
+	font-size: 40;
+	width: auto;
+	
+}
+.nav2{
+
+	margin-left:100px;
+	margin-right:100px;
+	width:auto;
+
+
+	
+}
